@@ -1,5 +1,5 @@
 from algorithms.linalg_utils import *
-from line_search_utils import *
+from algorithms.line_search.line_search_utils import *
 from functions import *
 
 
